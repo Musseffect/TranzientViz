@@ -16,6 +16,8 @@
       <element id="archive" name="TransientFunctions.jar">
         <element id="module-output" name="TransientFunctions" />
       </element>
+      <element id="library" level="project" name="org.jfree:fxgraphics2d:1.7" />
+      <element id="library" level="project" name="org.jfree:jfreechart-fx:1.0.1" />
     </root>
   </artifact>
 </component>
